@@ -1,2 +1,2 @@
-# dot-then
-A smart, fluid and beautiful to-do list web app. (WIP)
+# nexus
+An easy-to-use event manager, planner and scheduler.
